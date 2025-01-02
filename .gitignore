@@ -1,0 +1,7 @@
+/hf_cache/
+/vit-mae-adamw/
+/logs/
+/wandb/
+/conda_envs/
+/__pycache__/
+
